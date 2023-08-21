@@ -1,0 +1,11 @@
+.img-size{
+    width: 73%;
+}
+
+.bg-color{
+    background-color: #F23802;
+    padding: 5px 10px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
